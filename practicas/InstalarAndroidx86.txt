@@ -1,0 +1,3 @@
+Instalación Android x86
+
+https://xn--deepinenespaol-1nb.org/wiki/instalar-android-en-virtualbox/
