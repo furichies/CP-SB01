@@ -1,0 +1,10 @@
+usuario 	sb-generico@outlook.com
+password 	CaM1n0K0y0T3
+PIN 		1980
+
+
+1.- Probar arranque nativo en equipos de escritorio (montados) 
+	1.1 copia fichero vhd a c:\vhd
+	1.2 Procedimiento "Arranquevirtual vhd"
+	1.3 REboot
+2.- Instalar linux mint en equipo montaje. 
