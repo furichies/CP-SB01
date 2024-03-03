@@ -1,0 +1,20 @@
+https://support.hp.com/py-es/document/c08090316
+
+https://h30467.www3.hp.com/t5/Sistemas-operativos-y-software-para-notebooks/Actualizar-de-Win10-Home-a-Pro-un-Port%C3%A1til-HP-15-da0095ns/td-p/920856
+
+https://www.youtube.com/watch?v=E3ZaaQXHb9Q
+
+https://support.hp.com/es-es/document/ish_3936511-3160793-16
+
+https://learn.microsoft.com/es-es/windows-hardware/manufacture/desktop/windows-setup-edition-configuration-and-product-id-files--eicfg-and-pidtxt?view=windows-11
+
+https://www.youtube.com/watch?v=kruAeHgTLA8
+
+Idea: Boot dual inicial - https://www.digitalcitizen.life/dual-boot-windows-10-windows-11/#:~:text=There%20are%20two%20ways%20to,install%20Windows%2011%20on%20it
+
+ https://learn.microsoft.com/en-us/answers/questions/1376062/windows-10-11-on-different-drives-dual-booting
+
+Install w10home, install w11 pro vhdx -- dos licencias diferentes, en la OEM debe estar equipo límpio pero probablemente lo admita para vhdx
+
+
+
