@@ -1,0 +1,60 @@
+Motor paso a paso 
+
+https://es.wikipedia.org/wiki/Motor_paso_a_paso
+
+https://robots-argentina.com.ar/didactica/motores-paso-a-paso-caracteristicas-basicas/#:~:text=El%20torque%20de%20detenci%C3%B3n%20hace,permanece%20aplicada%20a%20su%20eje.
+
+Motores NEMA
+
+https://es.wikipedia.org/wiki/National_Electrical_Manufacturers_Association
+
+https://www.zikodrive.com/es/ufaqs/nema-motor-marco-tamanos-media/
+
+FIN DE CARRERA
+
+https://es.wikipedia.org/wiki/Sensor_final_de_carrera
+
+Extrusor
+
+https://servitec3d.com/blog/extrusor-impresora-3d/#:~:text=Qu%C3%A9%20es%20un%20extrusor%20de,polea%20y%20una%20rueda%20dentada.
+
+https://abax3dtech.com/2021/01/08/extrusor-impresora-3d-componentes-tipos-y-limpieza/
+
+
+Fusor
+
+https://servitec3d.com/blog/hotend-impresora-3d/#:~:text=El%20hotend%20o%20fusor%20de,cama%20de%20nuestra%20impresora%203D.
+
+
+FUNCIONAMIENTO FINAL 
+
+https://www.impresoras3d.com/como-funciona-una-impresora-3d/
+
+Localización de modelos 3D
+
+https://www.3dnatives.com/es/top-10-de-las-mejores-sitios-web-para-descargar-archivos-stl-27012016/
+
+Laminadores
+
+https://www.3dnatives.com/es/programas-para-impresoras-3d-slicers-laminadores-200520192/
+
+https://www.zonamaker.com/index.php/impresion-3d/software-imp3d/manual-de-cura
+
+Materiales para el filamento
+
+https://tresdpro.com/que-material-utilizan-las-impresoras-3d/
+
+GCODE
+
+https://es.wikipedia.org/wiki/G-code
+
+https://www.luisllamas.es/que-es-el-g-code-y-su-importancia-en-la-impresion-3d/
+
+Preparación para la impresión
+
+https://www.vision3d.tech/tutoriales/
+
+https://www.hta3d.com/es/blog/el-hotend-funcionamiento-y-zonas
+
+
+
