@@ -1,0 +1,9 @@
+WIN PE
+https://learn.microsoft.com/es-es/windows/deployment/deploy-windows-cm/create-a-custom-windows-pe-boot-image-with-configuration-manager
+https://www.diskpart.com/es/windows-10/crear-disco-de-arranque-windows-pe.html
+https://es.easeus.com/backup-recovery/free-backup-software-winpe.html
+
+https://sourceforge.net/projects/win10xpe/postdownload
+
+https://easy2boot.xyz/create-your-website-with-blocks/add-payload-files/winpe-isos-winbuilder-medicat-gandalf-etc/
+
